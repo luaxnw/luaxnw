@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+<h1>Olá, eu sou o Luan Pescador</h1>
+</div>
 
-<!--
-**luaxnw/luaxnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h2>Sobre mim</h2>
+- Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul <br>
+- Atualmente sou estagiário de programação de automação industrial na Eletroservice
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>GitHub Stats</h3>
+<div align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=luaxnw&theme=blood-dark&hide_border=true&border_radius=4&locale=pt_BR&timezone=-3&exclude_days=Sun%2CSat" alt="GitHub Streak" /> </a> </div>
+
+
+
+<h2>Tecnologias</h2>
+
+
+<h3>Linguagens</h3>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,java,cpp,c&theme=dark" />
+
+
+<h3>Frameworks & Bibliotecas</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=dark" />
+
+  
+<h3>Ferramentas</h3>
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" /> 
+</div>
+
+
+
